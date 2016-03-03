@@ -17,6 +17,11 @@ Google Play Services GCM 7.0.0
 BumpTech Glide 3.5.2
 
 
+Wear
+-------------
+Wearable wallpaper view added to show current date and time with hight-low temperature & summary icon.
+
+
 Getting Started
 ---------------
 This sample uses the Gradle build system.  To build this project, use the
